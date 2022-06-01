@@ -1,6 +1,4 @@
-<div align="center">
-<img  src="./header.png" alt="cover" />
-</div>
+[![Eldar Dautovic, I am a front-end developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20a%20front-end%20developer&title=Eldar%20Dautovic)](https://pimp-my-readme.webapp.io)
 
 
 # 💻Tech Stack
