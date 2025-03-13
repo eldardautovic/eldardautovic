@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Eldar</h1>
+<h1 align="left">Hello 👋, I'm Eldar</h1>
 
 ###
 
@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next.js and Laravel<br><br>🎯 How to reach me: dautoviceldar20@gmail.com</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning Flutter and ASP.NET<br><br>🎯 How to reach me: dautoviceldar20@gmail.com</p>
 
 ###
 
@@ -15,19 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
+
+###
