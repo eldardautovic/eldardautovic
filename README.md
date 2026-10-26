@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Flutter and ASP.NET<br><br>🎯 How to reach me: dautoviceldar20@gmail.com</p>
+<p align="left">📚 I'm currently learning AI engineering<br><br>🎯 How to reach me: dautoviceldar20@gmail.com</p>
 
 ###
 
